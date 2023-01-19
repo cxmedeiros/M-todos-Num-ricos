@@ -1,3 +1,3 @@
 # MetodosNumericos
 
-Questões rodadas no google colab na cadeira de Métodos Numéricos do CIN - IF816
+Questões rodadas no google colab da cadeira de Métodos Numéricos do CIN - IF816
